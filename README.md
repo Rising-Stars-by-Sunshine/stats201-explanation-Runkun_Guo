@@ -20,22 +20,18 @@
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |   :---: |  :---:   | :---: |  :---: |
 | Item type | Represents the type of the collected literature | \ | \ | \ |Object|
-| Titles | Contains the authors of the collected lieratures | \ | \ | \ |Object|
+| Authors | Contains the authors of the collected lieratures | \ | \ | \ |Object|
 | Titles | Contains the titles of the collected lieratures | \ | \ | \ |Object|
 | Abstract | Contains the abstracts of the collected lieratures | \ | \ | \ |Object|
 
 
 
 ## Code
-- [Query Ethereum Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Query_Data_Ethereum_Data.ipynb)
-- [Process Regression Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
+- [Haowen_NLP_Blockchain_SoKs](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/code)
 ### Table of Code
 | Code files| Description | Type|
 | :---         |     :---:     | ---: |
-| Query_Data_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb |
-| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb |
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
+| Haowen_NLP_Blockchain_SoKs.ipynb  | This code excuted the text preprocessing and  | .ipynb |
 
 ## Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
@@ -46,8 +42,6 @@
 
 # References
 
-## Data Source
-- [Ethereum Historical Dataset](https://www.kaggle.com/datasets/abhimaneukj/ethereum-historical-dataset)
 ## Code Source
 - [Rising-Stars-by-Sunshine/stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ## Literature
