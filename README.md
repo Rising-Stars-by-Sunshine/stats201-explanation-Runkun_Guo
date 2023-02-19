@@ -53,6 +53,7 @@
 
 ## Code Source
 - [sunshineluyao/design-principle-blockchain](https://github.com/sunshineluyao/design-principle-blockchain)
+-[Haowenji/Format of the page](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen)
 
 ## Literature
 Tsokos, A., Narayanan, S., Kosmidis, I., Baio, G., Cucuringu, M., Whitaker, G., & Király, F. (2019). Modeling outcomes of soccer matches. Machine Learning, 108(1), 77-95. https://doi.org/10.1007/s10994-018-5741-1
