@@ -31,13 +31,13 @@
 ### Table of Code
 | Code files| Description | Type|
 | :---         |     :---:     | ---: |
-| Haowen_NLP_Blockchain_SoKs.ipynb  | This code excuted the text preprocessing and  | .ipynb |
+| Haowen_NLP_Blockchain_SoKs.ipynb  | This code excutes the text preprocessing and NLP algorithms on these text | .ipynb |
 
 ## Spotlight
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
-*Figure 1: The prediction result of ethereum open price by linear regression*
-- [Code source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
-- [Data source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/blob/main/spotlight/figures/Wordcloud.png)
+*Figure 1: The world cloud of the collected literatures*
+- [Code source]( https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/code/Haowen_NLP_Blockchain_SoKs.ipynb)
+- [Data source](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/data/references.csv)
 - Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
 
 # References
