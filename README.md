@@ -38,7 +38,7 @@
 *Figure 1: The world cloud of the collected literatures*
 - [Code source]( https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/code/Haowen_NLP_Blockchain_SoKs.ipynb)
 - [Data source](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/data/references.csv)
-- Description: from figure 1, it is obvious that the predicted result is very close to the real open price value. The result is evaluated by R2 score, which is 0.984. The R-squre determines the proportion of variance, which shows how well the data fit the regression mode(Chicco, Warrens, and Jurman 2021). The closer the r-squared value is to 1, the better the fit. Thus, the linear regression reached a high accuracy regarding the r-squared value.
+- Description: from figure 1, it is obvious that the words NFT, market, prediction appear with a high fequency, which is accored with expectation. However, the word dynamic and trajectory are also high-frequency words. Thus, more researches related to NFT prediction can be conducted in these two aspects in the future.
 
 # References
 
