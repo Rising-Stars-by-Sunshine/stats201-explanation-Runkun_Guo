@@ -43,7 +43,7 @@
 # References
 
 ## Code Source
-- [Rising-Stars-by-Sunshine/stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
+- [sunshineluyao/design-principle-blockchain](https://github.com/sunshineluyao/design-principle-blockchain)
 ## Literature
 
 Chen, Zhengmao, Dongyue Guo, and Yi Lin. 2020. “A Deep Gaussian Process-Based Flight Trajectory Prediction Approach and Its Application on Conflict Detection.” Algorithms 13 (11): 293. https://doi.org/10.3390/a13110293.
