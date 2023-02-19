@@ -18,11 +18,11 @@
 
 ### Data Dictionary 
 | variable name | description | frequency     |  unit.    | range| type|
-| :---         |     :---     |          ---: |---:        |---: |---: |
-| Item type | Represents the type of the collected literature |\|\|\|Object|
-| Titles | Contains the authors of the collected lieratures |\|\|\|Object|
-| Titles | Contains the titles of the collected lieratures |\|\|\|Object|
-| Abstract | Contains the abstracts of the collected lieratures |\|\|\|Object|
+| :---         |     :---     |   :---: |  :---:   | :---: |  :---: |
+| Item type | Represents the type of the collected literature | \ | \ | \ |Object|
+| Titles | Contains the authors of the collected lieratures | \ | \ | \ |Object|
+| Titles | Contains the titles of the collected lieratures | \ | \ | \ |Object|
+| Abstract | Contains the abstracts of the collected lieratures | \ | \ | \ |Object|
 
 
 
