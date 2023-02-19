@@ -3,9 +3,9 @@
 
 | Contents| URL |
 | :---         |     :---     |
-| Data | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data |
-| Code | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/code |
-| Spotlight | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/spotlight |
+| Data | https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/data |
+| Code | https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/code |
+| Spotlight | https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/tree/main/spotlight |
 
 ## Data
 ### Data Source: 
