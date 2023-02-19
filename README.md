@@ -9,16 +9,12 @@
 
 ## Data
 ### Data Source: 
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+- [Collected Data](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen/blob/main/data/references.csv)
 
 ### Meta Data Information
 | Data files| Data Content | Type|
 | :---         |     :---     | :---: |
-| ETHUSD.csv | Ethereum historical data from 2015 to 2021 | queried data |
-| Ethereum_value.csv | Ethereum data after preprocessing | queried data |
-| Regression_Train.csv | Data for model training | processed data |
-| Regression_Test.csv | Data for model test | processed data |
+|references.csv| Literatures collected to do the explanation | collected data |
 
 ### Data Dictionary 
 | variable name | description | frequency     |  unit.    | range| type|
